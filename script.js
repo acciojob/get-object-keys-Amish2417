@@ -7,7 +7,7 @@
  let arr = [];
  
 
-Object.prototype.getkeys = function() = {
+Object.prototype.getkeys = function() {
 	// for(let t in student){
 	// 	arr.push(t);
 	// }
