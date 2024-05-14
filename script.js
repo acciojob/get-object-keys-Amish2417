@@ -4,7 +4,7 @@
 	 
  }
  
- let arr = [];
+ //let arr = [];
  
 
 Object.prototype.getkeys = function() {
@@ -16,5 +16,5 @@ Object.prototype.getkeys = function() {
 	return Object.keys(this);
 	
 }
-s//tudent.getkeys();
+//tudent.getkeys();
 
