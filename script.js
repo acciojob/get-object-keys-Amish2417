@@ -11,3 +11,4 @@ Object.prototype.getKeys = () => {
 	}
 	return arr;
 }
+student.getKeys();
