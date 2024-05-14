@@ -16,5 +16,5 @@ Object.prototype.getkeys = function() {
 	return Object.keys(this);
 	
 }
-student.getkeys();
+s//tudent.getkeys();
 
