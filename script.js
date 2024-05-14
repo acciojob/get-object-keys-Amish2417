@@ -5,7 +5,7 @@ let student = {
 }
 //let arr = [];
 Object.prototype.getKeys = function()  {
-	return Object.keys(this);
+	return Object.keys(student);
 	
 }
 //student.getKeys();
