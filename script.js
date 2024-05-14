@@ -1,20 +1,8 @@
-//your JS code here. If required.
- let student = {
-	 name : 'anish',
-	 
- }
- 
- //let arr = [];
- 
+//your JS code here. If re
 
-Object.prototype.getkeys = function() {
-	// for(let t in student){
-	// 	arr.push(t);
-	// }
-	// //console.log(arr);
- //  return arr;
-	return Object.keys(this);
-	
+let student = {
+	name: "Raul",
 }
-//student.getkeys();
-
+Object.prototype.getKeys = function () {
+	return Object.keys(this);
+}
