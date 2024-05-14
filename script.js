@@ -3,12 +3,17 @@
 	 name : 'anish',
 	 
  }
-let arr = [];
-student.prototype.getkeys = () =>{
-	for(let t in obj){
+ 
+ let arr = [];
+ 
+
+Object.prototype.getkeys = () =>{
+	for(let t in student){
 		arr.push(t);
 	}
-	console.log(arr);
-	return arr;
+	//console.log(arr);
+  return arr;
+	
 }
+student.getkeys();
 
